@@ -4,10 +4,6 @@ Simple Task Manager app for android written in Kotlin using Android Studio and J
 
 My purpose in creating this app was to learn about native Android development and understand the basics before moving into more complicated mobile development projects. 
 
-[Software Demo Video](https://youtu.be/Xn755ZDRRjo)
-
-[Database Functionality Demo](https://youtu.be/vQJ3mOyUhsg)
-
 # Development Environment
 
 - Android Studio Hedgehog
